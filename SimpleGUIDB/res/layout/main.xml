@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+	android:id="@+id/widget0"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+	android:id="@+id/widget39"
+	android:layout_width="228dp"
+	android:layout_height="300dp"
+	android:orientation="vertical"
+	android:layout_x="42dp"
+	android:layout_y="45dp">
+<TextView
+	android:id="@+id/widget40"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Employee Number :" />
+<EditText
+	android:id="@+id/eno"
+	android:layout_width="100dp"
+	android:layout_height="50dp"
+	android:textSize="18sp" />
+	<TextView
+	android:id="@+id/widget40"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Employee Name :" />
+<EditText
+	android:id="@+id/ename"
+	android:layout_width="100dp"
+	android:layout_height="50dp"
+	android:textSize="18sp" />
+<Button
+	android:id="@+id/mybtn"
+	android:layout_width="60dp"
+	android:layout_height="50dp"
+	android:text="Insert" />
+</LinearLayout>
+</AbsoluteLayout>

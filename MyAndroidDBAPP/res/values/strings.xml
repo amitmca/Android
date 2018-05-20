@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Traff1Activity!</string>
+    <string name="app_name">Traff1</string>
+    <string name="BtnStr">&quot;Click Me&quot;</string>
+    <color name="TextColor">#cfaab7</color>
+    <string name="InsertButtonText">Insert</string>
+    <string name="ViewButtonText">View</string>
+
+</resources>
